@@ -1,0 +1,14 @@
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\bin\Debug\netcoreapp3.1\Novia.Guestbook.Application.Abstractions.deps.json
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\bin\Debug\netcoreapp3.1\Novia.Guestbook.Application.Abstractions.dll
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\bin\Debug\netcoreapp3.1\Novia.Guestbook.Application.Abstractions.pdb
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\bin\Debug\netcoreapp3.1\Novia.Guestbook.Domain.dll
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\bin\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.dll
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\bin\Debug\netcoreapp3.1\Novia.Guestbook.Domain.pdb
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\bin\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.pdb
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\obj\Debug\netcoreapp3.1\Novia.Guestbook.Application.Abstractions.csprojAssemblyReference.cache
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\obj\Debug\netcoreapp3.1\Novia.Guestbook.Application.Abstractions.csproj.CoreCompileInputs.cache
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\obj\Debug\netcoreapp3.1\Novia.Guestbook.Application.Abstractions.AssemblyInfoInputs.cache
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\obj\Debug\netcoreapp3.1\Novia.Guestbook.Application.Abstractions.AssemblyInfo.cs
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\obj\Debug\netcoreapp3.1\Novia.Guestbook.Application.Abstractions.csproj.CopyComplete
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\obj\Debug\netcoreapp3.1\Novia.Guestbook.Application.Abstractions.dll
+C:\temp\IoCSample\Novia.Guestbook\Application\Application.Abstractions\obj\Debug\netcoreapp3.1\Novia.Guestbook.Application.Abstractions.pdb

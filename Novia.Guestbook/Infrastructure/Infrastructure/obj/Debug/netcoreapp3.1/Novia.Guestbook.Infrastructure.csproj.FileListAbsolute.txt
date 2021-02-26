@@ -1,0 +1,12 @@
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.deps.json
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.dll
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.csprojAssemblyReference.cache
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.AssemblyInfoInputs.cache
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.AssemblyInfo.cs
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Novia.Guestbook.Domain.dll
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Novia.Guestbook.Domain.pdb
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.csproj.CopyComplete
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.csproj.CoreCompileInputs.cache
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.pdb
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.dll
+C:\temp\IoCSample\Novia.Guestbook\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Novia.Guestbook.Infrastructure.pdb

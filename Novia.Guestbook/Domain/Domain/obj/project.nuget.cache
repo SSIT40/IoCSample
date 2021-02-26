@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RkqpXUNT3f0JpYY6J3Jjb/5GOLNeA7U3Sk1HutOnbJVeMw/VR2VyMSm7dRiwF6SrSDpBadoI/3prPyvnDX11Q==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\IoCSample\\Novia.Guestbook\\Domain\\Domain\\Novia.Guestbook.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebastian\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\sebastian\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
